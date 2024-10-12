@@ -9,7 +9,7 @@
 
 ### **DOWNLOAD: [wCopy](https://github.com/skylandersNFC/wCopy/releases/tag/2024.01.05)**
 
-### Works with [NS122](https://skylandersnfc.github.io/Docs/Skylanders_Buying_List/Skylanders_NFC_Devices/NS122/) NFC Devices.
+### Works with [NS106](https://skylandersnfc.github.io/Docs/Skylanders_Buying_List/Skylanders_NFC_Devices/NS106/) and [NS122](https://skylandersnfc.github.io/Docs/Skylanders_Buying_List/Skylanders_NFC_Devices/NS122/) NFC Devices.
 
 ![wCopy_2024010501](https://raw.githubusercontent.com/skylandersNFC/wCopy/main/images/wCopy_2024010501.jpg)
 
